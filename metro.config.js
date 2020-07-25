@@ -8,7 +8,7 @@
 module.exports = {
   resolver: {
     /* resolver options */
-    sourceExts: ['jsx', 'js', 'ts', 'tsx'],
+    sourceExts: ['jsx', 'js', 'ts', 'tsx']
   },
   maxWorkers: 2,
   transformer: {

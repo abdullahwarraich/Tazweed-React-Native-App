@@ -11,5 +11,5 @@ export const getSellers = async (search = '') => {
 export const getAppointments = async sellerId =>
   REQUEST(`${BASE_URL}/appointment/${sellerId}?status=AVAILABLE`)
 
-export const bookAppointment = async (id, status='PENDING') =>
+export const bookAppointment = async (id, status = 'PENDING') =>
   REQUEST(`${BASE_URL}/appointment/${id}`, 'PUT', { status })

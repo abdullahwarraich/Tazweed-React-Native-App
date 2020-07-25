@@ -1,0 +1,10 @@
+android/*
+ios/*
+.buckconfig
+.flowconfig
+.gitattributes
+.watchmanconfig
+README.md
+package.json
+yarn.lock
+style.js
