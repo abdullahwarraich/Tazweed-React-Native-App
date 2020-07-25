@@ -1,10 +1,10 @@
-# Tazweed Mobile App 
+# React Native Mobile App 
 
 ### Prerequisites
 
 1. ```NodeJS``` preferred version 12. 
 2. ```react-native-cli```
-3. Follow steps provided in [docs](https://reactnative.dev/docs/environment-setup) to setup dev environment for ```ios``` or ```android``.
+3. Follow steps provided in [docs](https://reactnative.dev/docs/environment-setup) to setup dev environment for ```ios``` or ```android```.
 
 ### Installing
 
